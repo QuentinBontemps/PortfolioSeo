@@ -1,0 +1,14 @@
+# Website Sitemap
+Sitemap: http://quentin-bontemps.webatu.com/sitemap.xml
+
+# Crawlers Setup
+User-agent: *
+
+
+# Directories
+Disallow: /bootstrap/
+Disallow: /css/
+Disallow: /data/
+Disallow: /img/
+Disallow: /js/
+Disallow: /font-awesone-4.1.0/
